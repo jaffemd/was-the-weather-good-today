@@ -108,9 +108,9 @@ const MonthView: React.FC<MonthViewProps> = ({ monthKey, month, entries }) => {
   const daysInMonth = lastDay.getDate();
   
   // Check if this is the current month and find the most recent filled date
-  const currentMonth = new Date().getMonth() + 1;
-  const currentYear = new Date().getFullYear();
-  const isCurrentMonth = parseInt(year) === currentYear && parseInt(monthNum) === currentMonth;
+  // const currentMonth = new Date().getMonth() + 1;
+  // const currentYear = new Date().getFullYear();
+  // const isCurrentMonth = parseInt(year) === currentYear && parseInt(monthNum) === currentMonth;
   
   // let mostRecentFilledDate = null; // Not currently used
   // if (isCurrentMonth) {
