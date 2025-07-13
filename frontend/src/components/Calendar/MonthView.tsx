@@ -92,7 +92,7 @@ const MonthView: React.FC<MonthViewProps> = ({ monthKey, month, entries }) => {
   
   // Get the first day of the month and number of days
   const [year, monthNum] = monthKey.split('-');
-  const firstDay = new Date(parseInt(year), parseInt(monthNum) - 1, 1);
+  // const firstDay = new Date(parseInt(year), parseInt(monthNum) - 1, 1); // Not currently used
   const lastDay = new Date(parseInt(year), parseInt(monthNum), 0);
   // const startOfWeek = firstDay.getDay(); // 0 = Sunday (not currently used)
   const daysInMonth = lastDay.getDate();
