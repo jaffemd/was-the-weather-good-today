@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react'; // Not needed in React 17+ with new JSX transform
 import { BrowserRouter as Router, Routes, Route } from 'react-router-dom';
 import { ThemeProvider, createTheme } from '@mui/material/styles';
 import { CssBaseline, Container, Box } from '@mui/material';

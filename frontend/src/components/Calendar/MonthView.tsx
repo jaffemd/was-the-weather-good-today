@@ -1,4 +1,4 @@
-import React from 'react';
+// import React from 'react'; // Not needed in React 17+ with new JSX transform
 import { Box, Typography, styled } from '@mui/material';
 
 interface MonthViewProps {
@@ -11,7 +11,7 @@ interface MonthViewProps {
   }>;
 }
 
-const CalendarGrid = styled(Box)(({ theme }) => ({
+const CalendarGrid = styled(Box)(() => ({
   display: 'grid',
   gridTemplateColumns: 'repeat(7, 1fr)',
   gap: '3px',
@@ -22,7 +22,7 @@ const CalendarGrid = styled(Box)(({ theme }) => ({
   gridAutoFlow: 'row',
 }));
 
-const DayHeaders = styled(Box)(({ theme }) => ({
+const DayHeaders = styled(Box)(() => ({
   display: 'grid',
   gridTemplateColumns: 'repeat(7, 1fr)',
   gap: '3px',
@@ -32,7 +32,7 @@ const DayHeaders = styled(Box)(({ theme }) => ({
   placeItems: 'center',
 }));
 
-const DayHeader = styled(Typography)(({ theme }) => ({
+const DayHeader = styled(Typography)(() => ({
   fontSize: '0.7rem',
   fontWeight: 600,
   color: 'rgba(71, 85, 105, 0.7)',
@@ -94,7 +94,7 @@ const MonthView: React.FC<MonthViewProps> = ({ monthKey, month, entries }) => {
   const [year, monthNum] = monthKey.split('-');
   const firstDay = new Date(parseInt(year), parseInt(monthNum) - 1, 1);
   const lastDay = new Date(parseInt(year), parseInt(monthNum), 0);
-  const startOfWeek = firstDay.getDay(); // 0 = Sunday
+  // const startOfWeek = firstDay.getDay(); // 0 = Sunday (not currently used)
   const daysInMonth = lastDay.getDate();
   
   // Check if this is the current month and find the most recent filled date
@@ -102,17 +102,17 @@ const MonthView: React.FC<MonthViewProps> = ({ monthKey, month, entries }) => {
   const currentYear = new Date().getFullYear();
   const isCurrentMonth = parseInt(year) === currentYear && parseInt(monthNum) === currentMonth;
   
-  let mostRecentFilledDate = null;
-  if (isCurrentMonth) {
-    // Find the most recent date with data
-    for (let day = daysInMonth; day >= 1; day--) {
-      const dateString = `${year}-${monthNum.padStart(2, '0')}-${day.toString().padStart(2, '0')}`;
-      if (entriesMap.has(dateString)) {
-        mostRecentFilledDate = day;
-        break;
-      }
-    }
-  }
+  // let mostRecentFilledDate = null; // Not currently used
+  // if (isCurrentMonth) {
+  //   // Find the most recent date with data
+  //   for (let day = daysInMonth; day >= 1; day--) {
+  //     const dateString = `${year}-${monthNum.padStart(2, '0')}-${day.toString().padStart(2, '0')}`;
+  //     if (entriesMap.has(dateString)) {
+  //       mostRecentFilledDate = day;
+  //       break;
+  //     }
+  //   }
+  // }
   
   // Create array of all calendar squares (no empty ones at start)
   const calendarSquares = [];
