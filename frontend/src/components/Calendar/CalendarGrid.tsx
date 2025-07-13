@@ -71,26 +71,15 @@ const CalendarGrid: React.FC = () => {
         pt: 2
       }}>
         <Typography 
-          variant="h3" 
+          variant="h5" 
           component="h1" 
           sx={{ 
-            fontWeight: 300,
-            color: '#2c3e50',
-            mb: 1,
-            fontSize: { xs: '2rem', sm: '2.5rem' }
-          }}
-        >
-          Weather Tracker
-        </Typography>
-        <Typography 
-          variant="subtitle1" 
-          sx={{ 
-            color: '#7f8c8d',
             fontWeight: 400,
-            fontSize: '1rem'
+            color: '#4a5568',
+            fontSize: { xs: '1.25rem', sm: '1.5rem' }
           }}
         >
-          Was the weather nice enough to spend time outside today?
+          Was The Weather Nice Enough To Spend Time Outside?
         </Typography>
       </Box>
       
