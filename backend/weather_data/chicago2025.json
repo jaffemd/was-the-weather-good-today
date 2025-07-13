@@ -1,0 +1,1932 @@
+[
+  {
+    "date": "2025-01-01",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 33,
+      "min_temp_f": 27,
+      "precipitation_in": 0.01,
+      "wind_speed_mph": 15
+    }
+  },
+  {
+    "date": "2025-01-02",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 32,
+      "min_temp_f": 25,
+      "precipitation_in": 0.01,
+      "wind_speed_mph": 12
+    }
+  },
+  {
+    "date": "2025-01-03",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 27,
+      "min_temp_f": 20,
+      "precipitation_in": 0,
+      "wind_speed_mph": 14
+    }
+  },
+  {
+    "date": "2025-01-04",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 23,
+      "min_temp_f": 12,
+      "precipitation_in": 0,
+      "wind_speed_mph": 13
+    }
+  },
+  {
+    "date": "2025-01-05",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 28,
+      "min_temp_f": 16,
+      "precipitation_in": 0.02,
+      "wind_speed_mph": 14
+    }
+  },
+  {
+    "date": "2025-01-06",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 31,
+      "min_temp_f": 25,
+      "precipitation_in": 0.11,
+      "wind_speed_mph": 19
+    }
+  },
+  {
+    "date": "2025-01-07",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 24,
+      "min_temp_f": 17,
+      "precipitation_in": 0,
+      "wind_speed_mph": 10
+    }
+  },
+  {
+    "date": "2025-01-08",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 25,
+      "min_temp_f": 15,
+      "precipitation_in": 0,
+      "wind_speed_mph": 8
+    }
+  },
+  {
+    "date": "2025-01-09",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 25,
+      "min_temp_f": 12,
+      "precipitation_in": 0,
+      "wind_speed_mph": 11
+    }
+  },
+  {
+    "date": "2025-01-10",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 29,
+      "min_temp_f": 21,
+      "precipitation_in": 0.15,
+      "wind_speed_mph": 11
+    }
+  },
+  {
+    "date": "2025-01-11",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 30,
+      "min_temp_f": 22,
+      "precipitation_in": 0,
+      "wind_speed_mph": 10
+    }
+  },
+  {
+    "date": "2025-01-12",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 35,
+      "min_temp_f": 25,
+      "precipitation_in": 0.07,
+      "wind_speed_mph": 16
+    }
+  },
+  {
+    "date": "2025-01-13",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 24,
+      "min_temp_f": 10,
+      "precipitation_in": 0,
+      "wind_speed_mph": 14
+    }
+  },
+  {
+    "date": "2025-01-14",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 16,
+      "min_temp_f": 9,
+      "precipitation_in": 0.05,
+      "wind_speed_mph": 15
+    }
+  },
+  {
+    "date": "2025-01-15",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 18,
+      "min_temp_f": 5,
+      "precipitation_in": 0,
+      "wind_speed_mph": 14
+    }
+  },
+  {
+    "date": "2025-01-16",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 36,
+      "min_temp_f": 18,
+      "precipitation_in": 0.01,
+      "wind_speed_mph": 14
+    }
+  },
+  {
+    "date": "2025-01-17",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 40,
+      "min_temp_f": 24,
+      "precipitation_in": 0,
+      "wind_speed_mph": 19
+    }
+  },
+  {
+    "date": "2025-01-18",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 38,
+      "min_temp_f": 19,
+      "precipitation_in": 0,
+      "wind_speed_mph": 18
+    }
+  },
+  {
+    "date": "2025-01-19",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 17,
+      "min_temp_f": 3,
+      "precipitation_in": 0,
+      "wind_speed_mph": 13
+    }
+  },
+  {
+    "date": "2025-01-20",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 11,
+      "min_temp_f": -1,
+      "precipitation_in": 0,
+      "wind_speed_mph": 15
+    }
+  },
+  {
+    "date": "2025-01-21",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 4,
+      "min_temp_f": -6,
+      "precipitation_in": 0,
+      "wind_speed_mph": 13
+    }
+  },
+  {
+    "date": "2025-01-22",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 23,
+      "min_temp_f": -1,
+      "precipitation_in": 0.04,
+      "wind_speed_mph": 20
+    }
+  },
+  {
+    "date": "2025-01-23",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 24,
+      "min_temp_f": 10,
+      "precipitation_in": 0.04,
+      "wind_speed_mph": 14
+    }
+  },
+  {
+    "date": "2025-01-24",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 20,
+      "min_temp_f": 3,
+      "precipitation_in": 0,
+      "wind_speed_mph": 12
+    }
+  },
+  {
+    "date": "2025-01-25",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 37,
+      "min_temp_f": 20,
+      "precipitation_in": 0,
+      "wind_speed_mph": 15
+    }
+  },
+  {
+    "date": "2025-01-26",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 30,
+      "min_temp_f": 18,
+      "precipitation_in": 0,
+      "wind_speed_mph": 12
+    }
+  },
+  {
+    "date": "2025-01-27",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 40,
+      "min_temp_f": 19,
+      "precipitation_in": 0,
+      "wind_speed_mph": 17
+    }
+  },
+  {
+    "date": "2025-01-28",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 44,
+      "min_temp_f": 28,
+      "precipitation_in": 0,
+      "wind_speed_mph": 19
+    }
+  },
+  {
+    "date": "2025-01-29",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 44,
+      "min_temp_f": 31,
+      "precipitation_in": 0,
+      "wind_speed_mph": 15
+    }
+  },
+  {
+    "date": "2025-01-30",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 47,
+      "min_temp_f": 27,
+      "precipitation_in": 0.19,
+      "wind_speed_mph": 14
+    }
+  },
+  {
+    "date": "2025-01-31",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 39,
+      "min_temp_f": 34,
+      "precipitation_in": 1.57,
+      "wind_speed_mph": 19
+    }
+  },
+  {
+    "date": "2025-02-01",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 34,
+      "min_temp_f": 28,
+      "precipitation_in": 0,
+      "wind_speed_mph": 15
+    }
+  },
+  {
+    "date": "2025-02-02",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 47,
+      "min_temp_f": 31,
+      "precipitation_in": 0.02,
+      "wind_speed_mph": 13
+    }
+  },
+  {
+    "date": "2025-02-03",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 43,
+      "min_temp_f": 34,
+      "precipitation_in": 0,
+      "wind_speed_mph": 16
+    }
+  },
+  {
+    "date": "2025-02-04",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 34,
+      "min_temp_f": 23,
+      "precipitation_in": 0,
+      "wind_speed_mph": 15
+    }
+  },
+  {
+    "date": "2025-02-05",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 31,
+      "min_temp_f": 25,
+      "precipitation_in": 0.05,
+      "wind_speed_mph": 13
+    }
+  },
+  {
+    "date": "2025-02-06",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 37,
+      "min_temp_f": 30,
+      "precipitation_in": 0.04,
+      "wind_speed_mph": 18
+    }
+  },
+  {
+    "date": "2025-02-07",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 30,
+      "min_temp_f": 18,
+      "precipitation_in": 0,
+      "wind_speed_mph": 15
+    }
+  },
+  {
+    "date": "2025-02-08",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 32,
+      "min_temp_f": 28,
+      "precipitation_in": 0.02,
+      "wind_speed_mph": 11
+    }
+  },
+  {
+    "date": "2025-02-09",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 31,
+      "min_temp_f": 24,
+      "precipitation_in": 0,
+      "wind_speed_mph": 11
+    }
+  },
+  {
+    "date": "2025-02-10",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 32,
+      "min_temp_f": 17,
+      "precipitation_in": 0,
+      "wind_speed_mph": 8
+    }
+  },
+  {
+    "date": "2025-02-11",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 27,
+      "min_temp_f": 24,
+      "precipitation_in": 0.02,
+      "wind_speed_mph": 14
+    }
+  },
+  {
+    "date": "2025-02-12",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 27,
+      "min_temp_f": 25,
+      "precipitation_in": 0.37,
+      "wind_speed_mph": 17
+    }
+  },
+  {
+    "date": "2025-02-13",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 27,
+      "min_temp_f": 6,
+      "precipitation_in": 0.04,
+      "wind_speed_mph": 14
+    }
+  },
+  {
+    "date": "2025-02-14",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 25,
+      "min_temp_f": 1,
+      "precipitation_in": 0.18,
+      "wind_speed_mph": 14
+    }
+  },
+  {
+    "date": "2025-02-15",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 32,
+      "min_temp_f": 26,
+      "precipitation_in": 0,
+      "wind_speed_mph": 15
+    }
+  },
+  {
+    "date": "2025-02-16",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 30,
+      "min_temp_f": 11,
+      "precipitation_in": 0.04,
+      "wind_speed_mph": 18
+    }
+  },
+  {
+    "date": "2025-02-17",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 9,
+      "min_temp_f": 1,
+      "precipitation_in": 0,
+      "wind_speed_mph": 14
+    }
+  },
+  {
+    "date": "2025-02-18",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 7,
+      "min_temp_f": -7,
+      "precipitation_in": 0,
+      "wind_speed_mph": 12
+    }
+  },
+  {
+    "date": "2025-02-19",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 12,
+      "min_temp_f": 4,
+      "precipitation_in": 0,
+      "wind_speed_mph": 10
+    }
+  },
+  {
+    "date": "2025-02-20",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 18,
+      "min_temp_f": 4,
+      "precipitation_in": 0,
+      "wind_speed_mph": 10
+    }
+  },
+  {
+    "date": "2025-02-21",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 24,
+      "min_temp_f": 10,
+      "precipitation_in": 0,
+      "wind_speed_mph": 9
+    }
+  },
+  {
+    "date": "2025-02-22",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 30,
+      "min_temp_f": 15,
+      "precipitation_in": 0,
+      "wind_speed_mph": 11
+    }
+  },
+  {
+    "date": "2025-02-23",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 43,
+      "min_temp_f": 23,
+      "precipitation_in": 0,
+      "wind_speed_mph": 12
+    }
+  },
+  {
+    "date": "2025-02-24",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 52,
+      "min_temp_f": 37,
+      "precipitation_in": 0.03,
+      "wind_speed_mph": 17
+    }
+  },
+  {
+    "date": "2025-02-25",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 50,
+      "min_temp_f": 34,
+      "precipitation_in": 0.01,
+      "wind_speed_mph": 9
+    }
+  },
+  {
+    "date": "2025-02-26",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 44,
+      "min_temp_f": 34,
+      "precipitation_in": 0.13,
+      "wind_speed_mph": 12
+    }
+  },
+  {
+    "date": "2025-02-27",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 47,
+      "min_temp_f": 34,
+      "precipitation_in": 0.04,
+      "wind_speed_mph": 16
+    }
+  },
+  {
+    "date": "2025-02-28",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 56,
+      "min_temp_f": 34,
+      "precipitation_in": 0,
+      "wind_speed_mph": 21
+    }
+  },
+  {
+    "date": "2025-03-01",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 35,
+      "min_temp_f": 22,
+      "precipitation_in": 0,
+      "wind_speed_mph": 17
+    }
+  },
+  {
+    "date": "2025-03-02",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 32,
+      "min_temp_f": 19,
+      "precipitation_in": 0,
+      "wind_speed_mph": 6
+    }
+  },
+  {
+    "date": "2025-03-03",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 45,
+      "min_temp_f": 30,
+      "precipitation_in": 0.02,
+      "wind_speed_mph": 14
+    }
+  },
+  {
+    "date": "2025-03-04",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 51,
+      "min_temp_f": 41,
+      "precipitation_in": 0.35,
+      "wind_speed_mph": 18
+    }
+  },
+  {
+    "date": "2025-03-05",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 52,
+      "min_temp_f": 30,
+      "precipitation_in": 0.43,
+      "wind_speed_mph": 19
+    }
+  },
+  {
+    "date": "2025-03-06",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 39,
+      "min_temp_f": 28,
+      "precipitation_in": 0,
+      "wind_speed_mph": 19
+    }
+  },
+  {
+    "date": "2025-03-07",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 34,
+      "min_temp_f": 32,
+      "precipitation_in": 0.17,
+      "wind_speed_mph": 7
+    }
+  },
+  {
+    "date": "2025-03-08",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 47,
+      "min_temp_f": 30,
+      "precipitation_in": 0,
+      "wind_speed_mph": 13
+    }
+  },
+  {
+    "date": "2025-03-09",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 56,
+      "min_temp_f": 33,
+      "precipitation_in": 0,
+      "wind_speed_mph": 12
+    }
+  },
+  {
+    "date": "2025-03-10",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 64,
+      "min_temp_f": 39,
+      "precipitation_in": 0,
+      "wind_speed_mph": 16
+    }
+  },
+  {
+    "date": "2025-03-11",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 55,
+      "min_temp_f": 33,
+      "precipitation_in": 0,
+      "wind_speed_mph": 18
+    }
+  },
+  {
+    "date": "2025-03-12",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 42,
+      "min_temp_f": 34,
+      "precipitation_in": 0,
+      "wind_speed_mph": 11
+    }
+  },
+  {
+    "date": "2025-03-13",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 47,
+      "min_temp_f": 33,
+      "precipitation_in": 0,
+      "wind_speed_mph": 11
+    }
+  },
+  {
+    "date": "2025-03-14",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 71,
+      "min_temp_f": 46,
+      "precipitation_in": 0,
+      "wind_speed_mph": 18
+    }
+  },
+  {
+    "date": "2025-03-15",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 66,
+      "min_temp_f": 44,
+      "precipitation_in": 0.34,
+      "wind_speed_mph": 21
+    }
+  },
+  {
+    "date": "2025-03-16",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 42,
+      "min_temp_f": 31,
+      "precipitation_in": 0.57,
+      "wind_speed_mph": 11
+    }
+  },
+  {
+    "date": "2025-03-17",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 50,
+      "min_temp_f": 28,
+      "precipitation_in": 0,
+      "wind_speed_mph": 16
+    }
+  },
+  {
+    "date": "2025-03-18",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 65,
+      "min_temp_f": 45,
+      "precipitation_in": 0,
+      "wind_speed_mph": 16
+    }
+  },
+  {
+    "date": "2025-03-19",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 47,
+      "min_temp_f": 36,
+      "precipitation_in": 0.66,
+      "wind_speed_mph": 20
+    }
+  },
+  {
+    "date": "2025-03-20",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 41,
+      "min_temp_f": 33,
+      "precipitation_in": 0.21,
+      "wind_speed_mph": 25
+    }
+  },
+  {
+    "date": "2025-03-21",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 56,
+      "min_temp_f": 31,
+      "precipitation_in": 0.01,
+      "wind_speed_mph": 18
+    }
+  },
+  {
+    "date": "2025-03-22",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 45,
+      "min_temp_f": 34,
+      "precipitation_in": 0.02,
+      "wind_speed_mph": 15
+    }
+  },
+  {
+    "date": "2025-03-23",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 48,
+      "min_temp_f": 35,
+      "precipitation_in": 0.25,
+      "wind_speed_mph": 20
+    }
+  },
+  {
+    "date": "2025-03-24",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 47,
+      "min_temp_f": 34,
+      "precipitation_in": 0,
+      "wind_speed_mph": 18
+    }
+  },
+  {
+    "date": "2025-03-25",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 43,
+      "min_temp_f": 31,
+      "precipitation_in": 0,
+      "wind_speed_mph": 7
+    }
+  },
+  {
+    "date": "2025-03-26",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 42,
+      "min_temp_f": 31,
+      "precipitation_in": 0.08,
+      "wind_speed_mph": 7
+    }
+  },
+  {
+    "date": "2025-03-27",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 55,
+      "min_temp_f": 40,
+      "precipitation_in": 0.02,
+      "wind_speed_mph": 9
+    }
+  },
+  {
+    "date": "2025-03-28",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 76,
+      "min_temp_f": 44,
+      "precipitation_in": 0.11,
+      "wind_speed_mph": 20
+    }
+  },
+  {
+    "date": "2025-03-29",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 69,
+      "min_temp_f": 45,
+      "precipitation_in": 0.01,
+      "wind_speed_mph": 20
+    }
+  },
+  {
+    "date": "2025-03-30",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 71,
+      "min_temp_f": 46,
+      "precipitation_in": 0.17,
+      "wind_speed_mph": 16
+    }
+  },
+  {
+    "date": "2025-03-31",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 44,
+      "min_temp_f": 35,
+      "precipitation_in": 0.05,
+      "wind_speed_mph": 13
+    }
+  },
+  {
+    "date": "2025-04-01",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 43,
+      "min_temp_f": 33,
+      "precipitation_in": 0,
+      "wind_speed_mph": 18
+    }
+  },
+  {
+    "date": "2025-04-02",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 69,
+      "min_temp_f": 41,
+      "precipitation_in": 0.7,
+      "wind_speed_mph": 20
+    }
+  },
+  {
+    "date": "2025-04-03",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 60,
+      "min_temp_f": 42,
+      "precipitation_in": 0,
+      "wind_speed_mph": 16
+    }
+  },
+  {
+    "date": "2025-04-04",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 44,
+      "min_temp_f": 40,
+      "precipitation_in": 0.09,
+      "wind_speed_mph": 11
+    }
+  },
+  {
+    "date": "2025-04-05",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 50,
+      "min_temp_f": 39,
+      "precipitation_in": 0.31,
+      "wind_speed_mph": 14
+    }
+  },
+  {
+    "date": "2025-04-06",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 43,
+      "min_temp_f": 37,
+      "precipitation_in": 0,
+      "wind_speed_mph": 12
+    }
+  },
+  {
+    "date": "2025-04-07",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 42,
+      "min_temp_f": 32,
+      "precipitation_in": 0.03,
+      "wind_speed_mph": 19
+    }
+  },
+  {
+    "date": "2025-04-08",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 38,
+      "min_temp_f": 28,
+      "precipitation_in": 0,
+      "wind_speed_mph": 13
+    }
+  },
+  {
+    "date": "2025-04-09",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 45,
+      "min_temp_f": 33,
+      "precipitation_in": 0.09,
+      "wind_speed_mph": 13
+    }
+  },
+  {
+    "date": "2025-04-10",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 41,
+      "min_temp_f": 36,
+      "precipitation_in": 0.02,
+      "wind_speed_mph": 12
+    }
+  },
+  {
+    "date": "2025-04-11",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 45,
+      "min_temp_f": 36,
+      "precipitation_in": 0,
+      "wind_speed_mph": 10
+    }
+  },
+  {
+    "date": "2025-04-12",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 52,
+      "min_temp_f": 33,
+      "precipitation_in": 0,
+      "wind_speed_mph": 10
+    }
+  },
+  {
+    "date": "2025-04-13",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 61,
+      "min_temp_f": 46,
+      "precipitation_in": 0.05,
+      "wind_speed_mph": 15
+    }
+  },
+  {
+    "date": "2025-04-14",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 63,
+      "min_temp_f": 51,
+      "precipitation_in": 0,
+      "wind_speed_mph": 18
+    }
+  },
+  {
+    "date": "2025-04-15",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 50,
+      "min_temp_f": 40,
+      "precipitation_in": 0.09,
+      "wind_speed_mph": 19
+    }
+  },
+  {
+    "date": "2025-04-16",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 44,
+      "min_temp_f": 37,
+      "precipitation_in": 0,
+      "wind_speed_mph": 11
+    }
+  },
+  {
+    "date": "2025-04-17",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 66,
+      "min_temp_f": 39,
+      "precipitation_in": 0.02,
+      "wind_speed_mph": 17
+    }
+  },
+  {
+    "date": "2025-04-18",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 80,
+      "min_temp_f": 56,
+      "precipitation_in": 0,
+      "wind_speed_mph": 18
+    }
+  },
+  {
+    "date": "2025-04-19",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 64,
+      "min_temp_f": 43,
+      "precipitation_in": 0,
+      "wind_speed_mph": 15
+    }
+  },
+  {
+    "date": "2025-04-20",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 55,
+      "min_temp_f": 45,
+      "precipitation_in": 0.07,
+      "wind_speed_mph": 19
+    }
+  },
+  {
+    "date": "2025-04-21",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 60,
+      "min_temp_f": 47,
+      "precipitation_in": 0.43,
+      "wind_speed_mph": 21
+    }
+  },
+  {
+    "date": "2025-04-22",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 66,
+      "min_temp_f": 42,
+      "precipitation_in": 0.2,
+      "wind_speed_mph": 10
+    }
+  },
+  {
+    "date": "2025-04-23",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 68,
+      "min_temp_f": 53,
+      "precipitation_in": 0.25,
+      "wind_speed_mph": 10
+    }
+  },
+  {
+    "date": "2025-04-24",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 61,
+      "min_temp_f": 45,
+      "precipitation_in": 0,
+      "wind_speed_mph": 9
+    }
+  },
+  {
+    "date": "2025-04-25",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 53,
+      "min_temp_f": 46,
+      "precipitation_in": 0,
+      "wind_speed_mph": 19
+    }
+  },
+  {
+    "date": "2025-04-26",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 48,
+      "min_temp_f": 41,
+      "precipitation_in": 0,
+      "wind_speed_mph": 18
+    }
+  },
+  {
+    "date": "2025-04-27",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 59,
+      "min_temp_f": 39,
+      "precipitation_in": 0,
+      "wind_speed_mph": 10
+    }
+  },
+  {
+    "date": "2025-04-28",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 80,
+      "min_temp_f": 52,
+      "precipitation_in": 0,
+      "wind_speed_mph": 19
+    }
+  },
+  {
+    "date": "2025-04-29",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 74,
+      "min_temp_f": 48,
+      "precipitation_in": 0,
+      "wind_speed_mph": 19
+    }
+  },
+  {
+    "date": "2025-04-30",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 56,
+      "min_temp_f": 45,
+      "precipitation_in": 0.01,
+      "wind_speed_mph": 10
+    }
+  },
+  {
+    "date": "2025-05-01",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 70,
+      "min_temp_f": 50,
+      "precipitation_in": 0.98,
+      "wind_speed_mph": 15
+    }
+  },
+  {
+    "date": "2025-05-02",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 56,
+      "min_temp_f": 45,
+      "precipitation_in": 0.05,
+      "wind_speed_mph": 8
+    }
+  },
+  {
+    "date": "2025-05-03",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 47,
+      "min_temp_f": 43,
+      "precipitation_in": 0,
+      "wind_speed_mph": 15
+    }
+  },
+  {
+    "date": "2025-05-04",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 49,
+      "min_temp_f": 43,
+      "precipitation_in": 0.21,
+      "wind_speed_mph": 15
+    }
+  },
+  {
+    "date": "2025-05-05",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 55,
+      "min_temp_f": 45,
+      "precipitation_in": 0.06,
+      "wind_speed_mph": 12
+    }
+  },
+  {
+    "date": "2025-05-06",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 72,
+      "min_temp_f": 47,
+      "precipitation_in": 0,
+      "wind_speed_mph": 9
+    }
+  },
+  {
+    "date": "2025-05-07",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 61,
+      "min_temp_f": 46,
+      "precipitation_in": 0,
+      "wind_speed_mph": 13
+    }
+  },
+  {
+    "date": "2025-05-08",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 51,
+      "min_temp_f": 44,
+      "precipitation_in": 0,
+      "wind_speed_mph": 15
+    }
+  },
+  {
+    "date": "2025-05-09",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 56,
+      "min_temp_f": 42,
+      "precipitation_in": 0,
+      "wind_speed_mph": 7
+    }
+  },
+  {
+    "date": "2025-05-10",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 70,
+      "min_temp_f": 47,
+      "precipitation_in": 0,
+      "wind_speed_mph": 16
+    }
+  },
+  {
+    "date": "2025-05-11",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 61,
+      "min_temp_f": 45,
+      "precipitation_in": 0,
+      "wind_speed_mph": 10
+    }
+  },
+  {
+    "date": "2025-05-12",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 66,
+      "min_temp_f": 53,
+      "precipitation_in": 0.02,
+      "wind_speed_mph": 9
+    }
+  },
+  {
+    "date": "2025-05-13",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 70,
+      "min_temp_f": 53,
+      "precipitation_in": 0,
+      "wind_speed_mph": 9
+    }
+  },
+  {
+    "date": "2025-05-14",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 66,
+      "min_temp_f": 52,
+      "precipitation_in": 0,
+      "wind_speed_mph": 7
+    }
+  },
+  {
+    "date": "2025-05-15",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 86,
+      "min_temp_f": 56,
+      "precipitation_in": 0.15,
+      "wind_speed_mph": 15
+    }
+  },
+  {
+    "date": "2025-05-16",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 83,
+      "min_temp_f": 63,
+      "precipitation_in": 0.02,
+      "wind_speed_mph": 23
+    }
+  },
+  {
+    "date": "2025-05-17",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 66,
+      "min_temp_f": 54,
+      "precipitation_in": 0,
+      "wind_speed_mph": 18
+    }
+  },
+  {
+    "date": "2025-05-18",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 58,
+      "min_temp_f": 46,
+      "precipitation_in": 0,
+      "wind_speed_mph": 9
+    }
+  },
+  {
+    "date": "2025-05-19",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 53,
+      "min_temp_f": 43,
+      "precipitation_in": 0,
+      "wind_speed_mph": 16
+    }
+  },
+  {
+    "date": "2025-05-20",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 55,
+      "min_temp_f": 48,
+      "precipitation_in": 0.59,
+      "wind_speed_mph": 19
+    }
+  },
+  {
+    "date": "2025-05-21",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 53,
+      "min_temp_f": 49,
+      "precipitation_in": 0.19,
+      "wind_speed_mph": 10
+    }
+  },
+  {
+    "date": "2025-05-22",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 52,
+      "min_temp_f": 47,
+      "precipitation_in": 0.03,
+      "wind_speed_mph": 11
+    }
+  },
+  {
+    "date": "2025-05-23",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 56,
+      "min_temp_f": 43,
+      "precipitation_in": 0,
+      "wind_speed_mph": 10
+    }
+  },
+  {
+    "date": "2025-05-24",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 55,
+      "min_temp_f": 45,
+      "precipitation_in": 0,
+      "wind_speed_mph": 9
+    }
+  },
+  {
+    "date": "2025-05-25",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 57,
+      "min_temp_f": 50,
+      "precipitation_in": 0.02,
+      "wind_speed_mph": 7
+    }
+  },
+  {
+    "date": "2025-05-26",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 56,
+      "min_temp_f": 47,
+      "precipitation_in": 0,
+      "wind_speed_mph": 10
+    }
+  },
+  {
+    "date": "2025-05-27",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 58,
+      "min_temp_f": 50,
+      "precipitation_in": 0,
+      "wind_speed_mph": 11
+    }
+  },
+  {
+    "date": "2025-05-28",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 58,
+      "min_temp_f": 50,
+      "precipitation_in": 0.32,
+      "wind_speed_mph": 8
+    }
+  },
+  {
+    "date": "2025-05-29",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 68,
+      "min_temp_f": 50,
+      "precipitation_in": 0,
+      "wind_speed_mph": 7
+    }
+  },
+  {
+    "date": "2025-05-30",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 76,
+      "min_temp_f": 52,
+      "precipitation_in": 0.06,
+      "wind_speed_mph": 16
+    }
+  },
+  {
+    "date": "2025-05-31",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 61,
+      "min_temp_f": 49,
+      "precipitation_in": 0,
+      "wind_speed_mph": 11
+    }
+  },
+  {
+    "date": "2025-06-01",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 58,
+      "min_temp_f": 46,
+      "precipitation_in": 0,
+      "wind_speed_mph": 8
+    }
+  },
+  {
+    "date": "2025-06-02",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 83,
+      "min_temp_f": 51,
+      "precipitation_in": 0,
+      "wind_speed_mph": 11
+    }
+  },
+  {
+    "date": "2025-06-03",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 87,
+      "min_temp_f": 68,
+      "precipitation_in": 0.01,
+      "wind_speed_mph": 21
+    }
+  },
+  {
+    "date": "2025-06-04",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 74,
+      "min_temp_f": 54,
+      "precipitation_in": 1.03,
+      "wind_speed_mph": 15
+    }
+  },
+  {
+    "date": "2025-06-05",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 62,
+      "min_temp_f": 51,
+      "precipitation_in": 0,
+      "wind_speed_mph": 9
+    }
+  },
+  {
+    "date": "2025-06-06",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 66,
+      "min_temp_f": 55,
+      "precipitation_in": 0,
+      "wind_speed_mph": 8
+    }
+  },
+  {
+    "date": "2025-06-07",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 67,
+      "min_temp_f": 55,
+      "precipitation_in": 0.01,
+      "wind_speed_mph": 10
+    }
+  },
+  {
+    "date": "2025-06-08",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 78,
+      "min_temp_f": 57,
+      "precipitation_in": 0.12,
+      "wind_speed_mph": 14
+    }
+  },
+  {
+    "date": "2025-06-09",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 71,
+      "min_temp_f": 56,
+      "precipitation_in": 0.24,
+      "wind_speed_mph": 15
+    }
+  },
+  {
+    "date": "2025-06-10",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 77,
+      "min_temp_f": 56,
+      "precipitation_in": 0,
+      "wind_speed_mph": 13
+    }
+  },
+  {
+    "date": "2025-06-11",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 90,
+      "min_temp_f": 63,
+      "precipitation_in": 0,
+      "wind_speed_mph": 14
+    }
+  },
+  {
+    "date": "2025-06-12",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 77,
+      "min_temp_f": 58,
+      "precipitation_in": 0.48,
+      "wind_speed_mph": 10
+    }
+  },
+  {
+    "date": "2025-06-13",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 69,
+      "min_temp_f": 58,
+      "precipitation_in": 0.07,
+      "wind_speed_mph": 9
+    }
+  },
+  {
+    "date": "2025-06-14",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 66,
+      "min_temp_f": 58,
+      "precipitation_in": 0,
+      "wind_speed_mph": 8
+    }
+  },
+  {
+    "date": "2025-06-15",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 72,
+      "min_temp_f": 57,
+      "precipitation_in": 0,
+      "wind_speed_mph": 7
+    }
+  },
+  {
+    "date": "2025-06-16",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 78,
+      "min_temp_f": 60,
+      "precipitation_in": 0,
+      "wind_speed_mph": 9
+    }
+  },
+  {
+    "date": "2025-06-17",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 91,
+      "min_temp_f": 69,
+      "precipitation_in": 0.04,
+      "wind_speed_mph": 12
+    }
+  },
+  {
+    "date": "2025-06-18",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 76,
+      "min_temp_f": 64,
+      "precipitation_in": 1.44,
+      "wind_speed_mph": 8
+    }
+  },
+  {
+    "date": "2025-06-19",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 77,
+      "min_temp_f": 65,
+      "precipitation_in": 0.45,
+      "wind_speed_mph": 11
+    }
+  },
+  {
+    "date": "2025-06-20",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 81,
+      "min_temp_f": 67,
+      "precipitation_in": 0,
+      "wind_speed_mph": 13
+    }
+  },
+  {
+    "date": "2025-06-21",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 91,
+      "min_temp_f": 74,
+      "precipitation_in": 0,
+      "wind_speed_mph": 17
+    }
+  },
+  {
+    "date": "2025-06-22",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 93,
+      "min_temp_f": 78,
+      "precipitation_in": 0,
+      "wind_speed_mph": 15
+    }
+  },
+  {
+    "date": "2025-06-23",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 95,
+      "min_temp_f": 79,
+      "precipitation_in": 0,
+      "wind_speed_mph": 15
+    }
+  },
+  {
+    "date": "2025-06-24",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 90,
+      "min_temp_f": 72,
+      "precipitation_in": 0.59,
+      "wind_speed_mph": 9
+    }
+  },
+  {
+    "date": "2025-06-25",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 76,
+      "min_temp_f": 69,
+      "precipitation_in": 0.15,
+      "wind_speed_mph": 9
+    }
+  },
+  {
+    "date": "2025-06-26",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 87,
+      "min_temp_f": 76,
+      "precipitation_in": 0.25,
+      "wind_speed_mph": 10
+    }
+  },
+  {
+    "date": "2025-06-27",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 85,
+      "min_temp_f": 75,
+      "precipitation_in": 0.12,
+      "wind_speed_mph": 14
+    }
+  },
+  {
+    "date": "2025-06-28",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 77,
+      "min_temp_f": 68,
+      "precipitation_in": 0,
+      "wind_speed_mph": 7
+    }
+  },
+  {
+    "date": "2025-06-29",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 86,
+      "min_temp_f": 71,
+      "precipitation_in": 0.01,
+      "wind_speed_mph": 7
+    }
+  },
+  {
+    "date": "2025-06-30",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 86,
+      "min_temp_f": 71,
+      "precipitation_in": 0.12,
+      "wind_speed_mph": 8
+    }
+  },
+  {
+    "date": "2025-07-01",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 80,
+      "min_temp_f": 69,
+      "precipitation_in": 0,
+      "wind_speed_mph": 9
+    }
+  },
+  {
+    "date": "2025-07-02",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 88,
+      "min_temp_f": 70,
+      "precipitation_in": 0.03,
+      "wind_speed_mph": 6
+    }
+  },
+  {
+    "date": "2025-07-03",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 86,
+      "min_temp_f": 72,
+      "precipitation_in": 0.01,
+      "wind_speed_mph": 9
+    }
+  },
+  {
+    "date": "2025-07-04",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 87,
+      "min_temp_f": 73,
+      "precipitation_in": 0.68,
+      "wind_speed_mph": 7
+    }
+  },
+  {
+    "date": "2025-07-05",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 92,
+      "min_temp_f": 76,
+      "precipitation_in": 0,
+      "wind_speed_mph": 15
+    }
+  },
+  {
+    "date": "2025-07-06",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 83,
+      "min_temp_f": 67,
+      "precipitation_in": 0.34,
+      "wind_speed_mph": 12
+    }
+  },
+  {
+    "date": "2025-07-07",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 71,
+      "min_temp_f": 66,
+      "precipitation_in": 0.02,
+      "wind_speed_mph": 12
+    }
+  },
+  {
+    "date": "2025-07-08",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 86,
+      "min_temp_f": 67,
+      "precipitation_in": 0.03,
+      "wind_speed_mph": 8
+    }
+  },
+  {
+    "date": "2025-07-09",
+    "rating": "okay",
+    "details": {
+      "max_temp_f": 79,
+      "min_temp_f": 68,
+      "precipitation_in": 0.21,
+      "wind_speed_mph": 10
+    }
+  },
+  {
+    "date": "2025-07-10",
+    "rating": "good",
+    "details": {
+      "max_temp_f": 78,
+      "min_temp_f": 67,
+      "precipitation_in": 0.09,
+      "wind_speed_mph": 9
+    }
+  },
+  {
+    "date": "2025-07-11",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 87,
+      "min_temp_f": 70,
+      "precipitation_in": 0,
+      "wind_speed_mph": 11
+    }
+  },
+  {
+    "date": "2025-07-12",
+    "rating": "bad",
+    "details": {
+      "max_temp_f": 0,
+      "min_temp_f": 0,
+      "precipitation_in": 0,
+      "wind_speed_mph": 0
+    }
+  }
+]

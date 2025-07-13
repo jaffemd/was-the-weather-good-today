@@ -1,0 +1,25 @@
+databases:
+  - name: weather-app-db
+    databaseName: weather_app_production
+    user: weather_app_user
+    region: oregon
+
+services:
+  - type: web
+    name: weather-app-backend
+    runtime: ruby
+    region: oregon
+    plan: free
+    buildCommand: "./bin/render-build.sh"
+    startCommand: "bundle exec puma -C config/puma.rb"
+    envVars:
+      - key: DATABASE_URL
+        fromDatabase:
+          name: weather-app-db
+          property: connectionString
+      - key: RAILS_MASTER_KEY
+        sync: false
+      - key: RAILS_ENV
+        value: production
+      - key: BUNDLE_WITHOUT
+        value: development:test
